@@ -5,3 +5,13 @@ export const coresDasTecnologias = {
   JavaScript: 'ambar',
   React: 'teal',
 }
+
+// Botões do filtro de projetos (aula 30). A ordem daqui é a ordem na tela.
+export const tecnologias = [
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'React',
+  'Bootstrap',
+  'Python',
+]
